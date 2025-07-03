@@ -27,7 +27,7 @@ The app features a user-friendly interface, fun animations, and clear feedback f
 |:-----------:|:--------------------:|:-------------:|:--------------:|
 | ![Home Screen](screenshots/home.png) | ![Converter](screenshots/converter.png) | ![Hot](screenshots/hot.png) | ![Cold](screenshots/cold.png) |
 
-> _Replace the above image links with your own screenshots!_
+> 
 
 ---
 
