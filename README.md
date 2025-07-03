@@ -39,23 +39,24 @@ The app features a user-friendly interface, fun animations, and clear feedback f
 2. 🏠 **Navigate to Converter:**  
    Tap the “Temperature Converter” button on the home screen.
 
-   ![Navigate Screenshot](screenshots/navigate.png)
+   ![Navigate Screenshot](screenshots/converter.png)
 
 3. 🔢 **Enter a Value:**  
    Type the temperature you want to convert.
 
-   ![Input Screenshot](screenshots/input.png)
+   ![Input Screenshot](screenshots/converter.png)
 
 4. ⚙️ **Select Units:**  
    Choose the units you want to convert from and to (Celsius, Fahrenheit, Kelvin).
 
-   ![Units Screenshot](screenshots/units.png)
+   ![Units Screenshot](screenshots/converter.png)
 
 5. 👀 **View Result:**  
    The converted value appears instantly.  
    If the temperature is very hot or cold, you’ll see a sun or snowflake animation and a message.
 
-   ![Result Screenshot](screenshots/result.png)
+   ![Result Screenshot](screenshots/hot.png)
+   ![Result Screenshot](screenshots/cold.png)
 
 ---
 
